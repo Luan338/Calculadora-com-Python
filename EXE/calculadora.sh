@@ -13,7 +13,7 @@ source /home/pichau/Projeto_Calculadora/bin/activate
 
 # Executar o notebook Jupyter
 echo "Executando o notebook calculadora.ipynb..."
-jupyter nbconvert --to notebook --execute C:\Users\pichau\OneDrive\Documentos\GitHub\Calculadora-com-Python/calculadora.ipynb
+jupyter nbconvert --to notebook --execute C:/Users/pichau/OneDrive/Documentos/GitHub/Calculadora-com-Python/calculadora.ipynb
 
 # Mensagem de Finalização
 echo "Script da calculadora.ipynb finalizado."
